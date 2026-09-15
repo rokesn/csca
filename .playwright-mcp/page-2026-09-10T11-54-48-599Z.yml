@@ -1,0 +1,135 @@
+- generic [active] [ref=f34e1]:
+  - banner [ref=f34e2]:
+    - navigation [ref=f34e3]:
+      - link "CSCA-Prep logo CSCA-Prep Professional Study" [ref=f34e4] [cursor=pointer]:
+        - /url: /
+        - img "CSCA-Prep logo" [ref=f34e5]
+        - generic [ref=f34e6]:
+          - generic [ref=f34e7]: CSCA-Prep
+          - generic [ref=f34e8]: Professional Study
+      - generic [ref=f34e9]:
+        - link "Study" [ref=f34e10] [cursor=pointer]:
+          - /url: /study
+        - link "Practice" [ref=f34e11] [cursor=pointer]:
+          - /url: /practice
+        - link "Mock Exams" [ref=f34e12] [cursor=pointer]:
+          - /url: /mock
+        - link "Study Plan" [ref=f34e13] [cursor=pointer]:
+          - /url: /plan
+        - link "Progress" [ref=f34e14] [cursor=pointer]:
+          - /url: /progress
+        - link "Resources" [ref=f34e15] [cursor=pointer]:
+          - /url: /resources
+        - link "Free Diagnostic" [ref=f34e16] [cursor=pointer]:
+          - /url: /diagnostic
+  - main [ref=f34e17]:
+    - link "← Home" [ref=f34e18] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f34e20]:
+      - paragraph [ref=f34e21]: Mock Exams
+      - heading "Take a mock under real rules." [level=1] [ref=f34e22]
+      - paragraph [ref=f34e23]: Full timer, no explanations, no hints. Target pace ~75s per question.
+    - generic [ref=f34e24]:
+      - generic [ref=f34e25]:
+        - paragraph [ref=f34e26]: ~75s
+        - paragraph [ref=f34e27]: Target pace / question
+      - generic [ref=f34e28]:
+        - paragraph [ref=f34e29]: 48q / 60m
+        - paragraph [ref=f34e30]: Full paper spec
+      - generic [ref=f34e31]:
+        - paragraph [ref=f34e32]: 00:00
+        - paragraph [ref=f34e33]: Auto-submit at zero
+    - generic [ref=f34e34]:
+      - generic [ref=f34e35]:
+        - paragraph [ref=f34e36]: 10 questions / 15 min
+        - heading "Quick Mock" [level=2] [ref=f34e37]
+        - paragraph [ref=f34e38]: A 15-minute check on one sitting. Best for daily readiness pulses.
+        - link "Start Quick Mock" [ref=f34e40] [cursor=pointer]:
+          - /url: /mock/quick
+      - generic [ref=f34e41]:
+        - paragraph [ref=f34e42]: 24 questions / 30 min
+        - heading "Half Mock" [level=2] [ref=f34e43]
+        - paragraph [ref=f34e44]: Half-paper pressure. Practice the 0–30m easy+medium sweep.
+        - link "Start Half Mock" [ref=f34e46] [cursor=pointer]:
+          - /url: /mock/half
+      - generic [ref=f34e47]:
+        - paragraph [ref=f34e48]: 48 questions / 60 min
+        - heading "Full Mock" [level=2] [ref=f34e49]
+        - paragraph [ref=f34e50]: "The real thing: full timer, no hints, navigator, auto-submit."
+        - link "Start Full Mock" [ref=f34e52] [cursor=pointer]:
+          - /url: /mock/full
+      - generic [ref=f34e53]:
+        - paragraph [ref=f34e54]: Multi-subject · placeholder
+        - heading "Final Exam Simulation" [level=2] [ref=f34e55]
+        - paragraph [ref=f34e56]: Full experience across your required subjects. Coming soon.
+        - link "Preview Final Simulation" [ref=f34e58] [cursor=pointer]:
+          - /url: /mock/final
+    - generic [ref=f34e59]:
+      - heading "Suggested pacing (48q / 60m)" [level=2] [ref=f34e60]
+      - list [ref=f34e61]:
+        - listitem [ref=f34e62]:
+          - strong [ref=f34e63]: "0–30 min — Easy + Medium:"
+          - text: Answer every easy and medium question first.
+        - listitem [ref=f34e64]:
+          - strong [ref=f34e65]: "30–45 min — Difficult:"
+          - text: Attack the difficult questions you skipped.
+        - listitem [ref=f34e66]:
+          - strong [ref=f34e67]: "45–55 min — Flagged:"
+          - text: Return to flagged questions.
+        - listitem [ref=f34e68]:
+          - strong [ref=f34e69]: "55–60 min — Review:"
+          - text: Final review, never submit with blanks.
+    - generic [ref=f34e71]:
+      - paragraph [ref=f34e72]: Exam rules apply
+      - generic [ref=f34e73]: No explanations and no hints during the paper. Flag tough questions and return to them in the sweep.
+  - contentinfo [ref=f34e74]:
+    - generic [ref=f34e75]:
+      - generic [ref=f34e76]:
+        - paragraph [ref=f34e77]: CSCA-Prep
+        - paragraph [ref=f34e78]: Understand → Diagnose → Learn → Practice → Review → Mock → Analyze → Repeat.
+      - generic [ref=f34e79]:
+        - paragraph [ref=f34e80]: Study
+        - list [ref=f34e81]:
+          - listitem [ref=f34e82]:
+            - link "Mathematics" [ref=f34e83] [cursor=pointer]:
+              - /url: /study/mathematics
+          - listitem [ref=f34e84]:
+            - link "Physics" [ref=f34e85] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f34e86]:
+            - link "Chemistry" [ref=f34e87] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f34e88]:
+            - link "Diagnostic" [ref=f34e89] [cursor=pointer]:
+              - /url: /diagnostic
+      - generic [ref=f34e90]:
+        - paragraph [ref=f34e91]: Practice
+        - list [ref=f34e92]:
+          - listitem [ref=f34e93]:
+            - link "CSCA Standard bank" [ref=f34e94] [cursor=pointer]:
+              - /url: /practice
+          - listitem [ref=f34e95]:
+            - link "Timed practice" [ref=f34e96] [cursor=pointer]:
+              - /url: /practice/timed
+          - listitem [ref=f34e97]:
+            - link "Full mocks 48Q/60min" [ref=f34e98] [cursor=pointer]:
+              - /url: /mock
+          - listitem [ref=f34e99]:
+            - link "Mistake Book" [ref=f34e100] [cursor=pointer]:
+              - /url: /mistakes
+      - generic [ref=f34e101]:
+        - paragraph [ref=f34e102]: Plan
+        - list [ref=f34e103]:
+          - listitem [ref=f34e104]:
+            - link "Study plan" [ref=f34e105] [cursor=pointer]:
+              - /url: /plan
+          - listitem [ref=f34e106]:
+            - link "Readiness" [ref=f34e107] [cursor=pointer]:
+              - /url: /progress
+          - listitem [ref=f34e108]:
+            - link "Resources" [ref=f34e109] [cursor=pointer]:
+              - /url: /resources
+          - listitem [ref=f34e110]:
+            - link "Subject wizard" [ref=f34e111] [cursor=pointer]:
+              - /url: /onboarding
+    - generic [ref=f34e112]: Independent study guide — not affiliated with the official CSCA exam. Confirm at csca.cn and your university.

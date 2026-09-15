@@ -1,0 +1,447 @@
+- generic [active] [ref=f20e1]:
+  - banner [ref=f20e2]:
+    - navigation [ref=f20e3]:
+      - link "CSCA-Prep logo CSCA-Prep Professional Study" [ref=f20e4] [cursor=pointer]:
+        - /url: /
+        - img "CSCA-Prep logo" [ref=f20e5]
+        - generic [ref=f20e6]:
+          - generic [ref=f20e7]: CSCA-Prep
+          - generic [ref=f20e8]: Professional Study
+      - generic [ref=f20e9]:
+        - link "Study" [ref=f20e10] [cursor=pointer]:
+          - /url: /study
+        - link "Practice" [ref=f20e11] [cursor=pointer]:
+          - /url: /practice
+        - link "Mock Exams" [ref=f20e12] [cursor=pointer]:
+          - /url: /mock
+        - link "Study Plan" [ref=f20e13] [cursor=pointer]:
+          - /url: /plan
+        - link "Progress" [ref=f20e14] [cursor=pointer]:
+          - /url: /progress
+        - link "Resources" [ref=f20e15] [cursor=pointer]:
+          - /url: /resources
+        - link "Free Diagnostic" [ref=f20e16] [cursor=pointer]:
+          - /url: /diagnostic
+  - main [ref=f20e17]:
+    - generic [ref=f20e19]:
+      - generic [ref=f20e20]:
+        - generic [ref=f20e21]: CSCA Exam Guide 2026
+        - generic [ref=f20e22]: Dec sitting TBA
+      - heading "Master the CSCA exam with a professional study system." [level=1] [ref=f20e23]
+      - paragraph [ref=f20e24]: The CSCA (China Scholastic Competency Assessment) is the admissions exam for international undergraduates — Mathematics, Physics, Chemistry and Professional Chinese. Diagnose your level, train at exam difficulty, rehearse full mocks.
+      - generic [ref=f20e25]:
+        - link "Start free diagnostic" [ref=f20e26] [cursor=pointer]:
+          - /url: /diagnostic
+        - link "Full mock · 48Q / 60min" [ref=f20e27] [cursor=pointer]:
+          - /url: /mock
+        - link "Browse syllabus →" [ref=f20e28] [cursor=pointer]:
+          - /url: /study/mathematics
+      - generic [ref=f20e29]:
+        - generic [ref=f20e30]:
+          - paragraph [ref=f20e31]: 48 / 60
+          - paragraph [ref=f20e32]: questions / minutes
+        - generic [ref=f20e33]:
+          - paragraph [ref=f20e34]: "25"
+          - paragraph [ref=f20e35]: math topics mapped
+        - generic [ref=f20e36]:
+          - paragraph [ref=f20e37]: 75s
+          - paragraph [ref=f20e38]: target pace per Q
+        - generic [ref=f20e39]:
+          - paragraph [ref=f20e40]: "3"
+          - paragraph [ref=f20e41]: "skills tracked: K·A·S"
+      - paragraph [ref=f20e42]: Independent study guide. Not affiliated with the official CSCA platform — confirm at csca.cn and your university.
+    - generic [ref=f20e43]:
+      - generic [ref=f20e44]: Understand → Diagnose → Learn → Practice → Review → Mock → Analyze → Repeat
+      - region "CSCA 2026 key facts" [ref=f20e45]:
+        - generic [ref=f20e46]:
+          - heading "Key facts" [level=2] [ref=f20e47]
+          - generic [ref=f20e48]: "Source: csca.cn · verify before registering"
+        - generic [ref=f20e49]:
+          - generic [ref=f20e50]:
+            - paragraph [ref=f20e51]: Next Exam
+            - paragraph [ref=f20e52]: December 2026 (TBA)
+            - paragraph [ref=f20e53]: 5 sessions / year
+          - generic [ref=f20e54]:
+            - paragraph [ref=f20e55]: Registration
+            - paragraph [ref=f20e56]: csca.cn
+            - paragraph [ref=f20e57]: Opens weeks before
+          - generic [ref=f20e58]:
+            - paragraph [ref=f20e59]: Fee · 1 subject
+            - paragraph [ref=f20e60]: ¥450 CNY
+            - paragraph [ref=f20e61]: Alipay / WeChat / bank
+          - generic [ref=f20e62]:
+            - paragraph [ref=f20e63]: Fee · 2+ subjects
+            - paragraph [ref=f20e64]: ¥700 CNY
+            - paragraph [ref=f20e65]: Same payment methods
+          - generic [ref=f20e66]:
+            - paragraph [ref=f20e67]: Format
+            - paragraph [ref=f20e68]: Home / Computer / Paper
+            - paragraph [ref=f20e69]: Varies by session
+          - generic [ref=f20e70]:
+            - paragraph [ref=f20e71]: Scoring
+            - paragraph [ref=f20e72]: 0–100 / subject
+            - paragraph [ref=f20e73]: 48Q/60min ≈ 75s per Q
+      - region "2026 exam sessions" [ref=f20e74]:
+        - generic [ref=f20e75]:
+          - heading "2026 sessions" [level=2] [ref=f20e76]
+          - generic [ref=f20e77]: Status as of Sep 2026 · confirm on csca.cn
+        - list [ref=f20e78]:
+          - listitem [ref=f20e79]:
+            - paragraph [ref=f20e80]: Jan 25, 2026
+            - paragraph [ref=f20e81]: Completed
+            - paragraph [ref=f20e82]: First 2026 sitting (Dec 21, 2025 pilot before it)
+          - listitem [ref=f20e83]:
+            - paragraph [ref=f20e84]: Mar 15, 2026
+            - paragraph [ref=f20e85]: Completed
+            - paragraph [ref=f20e86]: "Ticket + software: Mar 6–15 · system test Mar 7–10"
+          - listitem [ref=f20e87]:
+            - paragraph [ref=f20e88]: Apr 25, 2026
+            - paragraph [ref=f20e89]: Completed
+            - paragraph [ref=f20e90]: Registration was Apr 1–9 · ticket from Apr 16
+          - listitem [ref=f20e91]:
+            - paragraph [ref=f20e92]: Jun 27, 2026
+            - paragraph [ref=f20e93]: Completed
+            - paragraph [ref=f20e94]: Registration was Jun 1–7 · + computer centers
+          - listitem [ref=f20e95]:
+            - paragraph [ref=f20e96]: Dec 2026
+            - paragraph [ref=f20e97]: Upcoming · TBA
+            - paragraph [ref=f20e98]: Expected; date + registration announced on csca.cn
+      - region "Exam subjects" [ref=f20e99]:
+        - heading "Subjects" [level=2] [ref=f20e100]
+        - generic [ref=f20e101]:
+          - link "Mathematics → EN / CN · 60 min · 48 MCQ · 0–100 Algebra · Calculus · Geometry · Probability" [ref=f20e102] [cursor=pointer]:
+            - /url: /practice
+            - generic [ref=f20e103]:
+              - paragraph [ref=f20e104]: Mathematics
+              - generic [ref=f20e105]: →
+            - paragraph [ref=f20e106]: EN / CN · 60 min · 48 MCQ · 0–100
+            - paragraph [ref=f20e107]: Algebra · Calculus · Geometry · Probability
+          - link "Physics → EN / CN · 60 min · 48 MCQ · 0–100 Mechanics · E&M · Optics · Modern" [ref=f20e108] [cursor=pointer]:
+            - /url: /study
+            - generic [ref=f20e109]:
+              - paragraph [ref=f20e110]: Physics
+              - generic [ref=f20e111]: →
+            - paragraph [ref=f20e112]: EN / CN · 60 min · 48 MCQ · 0–100
+            - paragraph [ref=f20e113]: Mechanics · E&M · Optics · Modern
+          - link "Chemistry → EN / CN · 60 min · 48 MCQ · 0–100 Organic · Inorganic · Physical" [ref=f20e114] [cursor=pointer]:
+            - /url: /study
+            - generic [ref=f20e115]:
+              - paragraph [ref=f20e116]: Chemistry
+              - generic [ref=f20e117]: →
+            - paragraph [ref=f20e118]: EN / CN · 60 min · 48 MCQ · 0–100
+            - paragraph [ref=f20e119]: Organic · Inorganic · Physical
+          - link "Chinese · Science → CN only · 90 min · 80 MCQ · 0–100 Reading · Vocab · Grammar · Writing" [ref=f20e120] [cursor=pointer]:
+            - /url: /study
+            - generic [ref=f20e121]:
+              - paragraph [ref=f20e122]: Chinese · Science
+              - generic [ref=f20e123]: →
+            - paragraph [ref=f20e124]: CN only · 90 min · 80 MCQ · 0–100
+            - paragraph [ref=f20e125]: Reading · Vocab · Grammar · Writing
+          - link "Chinese · Arts → CN only · 90 min · 80 MCQ · 0–100 Reading · Vocab · Grammar · Writing" [ref=f20e126] [cursor=pointer]:
+            - /url: /study
+            - generic [ref=f20e127]:
+              - paragraph [ref=f20e128]: Chinese · Arts
+              - generic [ref=f20e129]: →
+            - paragraph [ref=f20e130]: CN only · 90 min · 80 MCQ · 0–100
+            - paragraph [ref=f20e131]: Reading · Vocab · Grammar · Writing
+          - link [ref=f20e132] [cursor=pointer]:
+            - /url: /onboarding
+            - paragraph [ref=f20e133]: Not sure what you need?
+            - paragraph [ref=f20e134]: 4 questions → your required route.
+            - paragraph [ref=f20e135]: Open subject wizard →
+      - generic [ref=f20e136]:
+        - generic [ref=f20e137]:
+          - paragraph [ref=f20e138]: Schedule · 2026+
+          - list [ref=f20e139]:
+            - listitem [ref=f20e140]:
+              - generic [ref=f20e141]: Sessions
+              - generic [ref=f20e142]: Jan · Mar · Apr · Jun · Dec
+            - listitem [ref=f20e143]:
+              - generic [ref=f20e144]: Results online
+              - generic [ref=f20e145]: ~7 days
+            - listitem [ref=f20e146]:
+              - generic [ref=f20e147]: Results paper
+              - generic [ref=f20e148]: ~14 days
+        - generic [ref=f20e149]:
+          - paragraph [ref=f20e150]: Exam day · Beijing
+          - list [ref=f20e151]:
+            - listitem [ref=f20e152]:
+              - generic [ref=f20e153]: Professional Chinese
+              - generic [ref=f20e154]: 12:00 – 13:30
+            - listitem [ref=f20e155]:
+              - generic [ref=f20e156]: Physics
+              - generic [ref=f20e157]: 15:00 – 16:00
+            - listitem [ref=f20e158]:
+              - generic [ref=f20e159]: Mathematics
+              - generic [ref=f20e160]: 18:00 – 19:00
+            - listitem [ref=f20e161]:
+              - generic [ref=f20e162]: Chemistry
+              - generic [ref=f20e163]: 20:30 – 21:30
+          - paragraph [ref=f20e164]: Recent home-based sessions ran this order; exact times vary by session and format — your admission ticket is final.
+        - generic [ref=f20e165]:
+          - paragraph [ref=f20e166]: Fees · CNY
+          - generic [ref=f20e167]:
+            - generic [ref=f20e168]:
+              - generic [ref=f20e169]: 1 subject
+              - strong [ref=f20e170]: ¥450
+            - generic [ref=f20e171]:
+              - generic [ref=f20e172]: 2+ subjects
+              - strong [ref=f20e173]: ¥700
+          - paragraph [ref=f20e174]: Alipay · WeChat Pay · bank transfer
+      - generic [ref=f20e175]:
+        - generic [ref=f20e176]:
+          - paragraph [ref=f20e177]: Registration · csca.cn
+          - heading "How registration works" [level=2] [ref=f20e178]
+          - list [ref=f20e179]:
+            - listitem [ref=f20e180]:
+              - paragraph [ref=f20e181]: 1 · Account + subjects
+              - paragraph [ref=f20e182]: Register on csca.cn, pick subjects before paying — 2+ subjects in one sitting costs ¥700 total vs ¥450 for one.
+            - listitem [ref=f20e183]:
+              - paragraph [ref=f20e184]: 2 · Pay
+              - paragraph [ref=f20e185]: Alipay, WeChat Pay, or bank transfer. Keep the receipt.
+            - listitem [ref=f20e186]:
+              - paragraph [ref=f20e187]: 3 · Ticket + software
+              - paragraph [ref=f20e188]: From Registration – My CSCA download the admission ticket and the latest test software (delete old versions first).
+            - listitem [ref=f20e189]:
+              - paragraph [ref=f20e190]: 4 · System test
+              - paragraph [ref=f20e191]: Run the personal equipment/network check in the announced window (e.g. a few days before exam day, typically afternoons).
+            - listitem [ref=f20e192]:
+              - paragraph [ref=f20e193]: 5 · Exam day login
+              - paragraph [ref=f20e194]: Log in 1 hour early; finish equipment check, facial recognition and manual verification ≥15 min before each paper.
+          - paragraph [ref=f20e195]: "Bring: ID photo, valid ID, and a working payment method — see the full requirements list on csca.cn."
+        - generic [ref=f20e196]:
+          - paragraph [ref=f20e197]: Who sits what
+          - heading "Required vs exempt" [level=2] [ref=f20e198]
+          - list [ref=f20e199]:
+            - listitem [ref=f20e200]:
+              - paragraph [ref=f20e201]: Mathematics
+              - paragraph [ref=f20e202]: Mandatory for everyone — every applicant sits it.
+            - listitem [ref=f20e203]:
+              - paragraph [ref=f20e204]: Professional Chinese
+              - paragraph [ref=f20e205]: Required for Chinese-taught programs (Humanities or STEM stream by major). Exempt if your program is fully English-taught.
+            - listitem [ref=f20e206]:
+              - paragraph [ref=f20e207]: Physics / Chemistry
+              - paragraph [ref=f20e208]: At least one required for science, engineering, agriculture, medicine. Medicine often requires Chemistry specifically.
+            - listitem [ref=f20e209]:
+              - paragraph [ref=f20e210]: Chinese Language majors
+              - paragraph [ref=f20e211]: May be exempt from Professional Chinese with a valid HSK Level 4 — confirm with your university.
+          - link "Check my route in the wizard →" [ref=f20e212] [cursor=pointer]:
+            - /url: /onboarding
+      - generic [ref=f20e213]:
+        - heading "The study method" [level=2] [ref=f20e214]
+        - paragraph [ref=f20e215]: Five steps. No random question piles.
+        - generic [ref=f20e216]:
+          - link [ref=f20e217] [cursor=pointer]:
+            - /url: /study/mathematics
+            - paragraph [ref=f20e218]: "01"
+            - paragraph [ref=f20e219]: Know what's tested
+            - paragraph [ref=f20e220]: High-frequency topics, not the whole textbook.
+          - link [ref=f20e221] [cursor=pointer]:
+            - /url: /diagnostic
+            - paragraph [ref=f20e222]: "02"
+            - paragraph [ref=f20e223]: Find your gaps
+            - paragraph [ref=f20e224]: 10–15 min diagnostic before studying.
+          - link [ref=f20e225] [cursor=pointer]:
+            - /url: /practice
+            - paragraph [ref=f20e226]: "03"
+            - paragraph [ref=f20e227]: Fix weak spots
+            - paragraph [ref=f20e228]: CSCA Standard difficulty, exam-calibrated.
+          - link [ref=f20e229] [cursor=pointer]:
+            - /url: /mistakes
+            - paragraph [ref=f20e230]: "04"
+            - paragraph [ref=f20e231]: Clear mistakes
+            - paragraph [ref=f20e232]: Redo every error until cold.
+          - link [ref=f20e233] [cursor=pointer]:
+            - /url: /mock
+            - paragraph [ref=f20e234]: "05"
+            - paragraph [ref=f20e235]: Rehearse real conditions
+            - paragraph [ref=f20e236]: Full 48Q / 60min mocks + analytics.
+      - region "Detailed syllabus" [ref=f20e237]:
+        - paragraph [ref=f20e238]: Syllabus · ~Grade 12 level
+        - heading "What each paper covers" [level=2] [ref=f20e239]
+        - paragraph [ref=f20e240]: Topic lists summarized from official syllabus documents — download the PDFs on csca.cn and prepare from those, not from any summary.
+        - generic [ref=f20e241]:
+          - generic [ref=f20e242]:
+            - paragraph [ref=f20e243]: Mathematics · 48Q / 60min
+            - paragraph [ref=f20e244]: Sets & inequalities · Functions (domain, range, monotonicity, parity, power / exponential / log / trig) · Sequences · Calculus (limits, derivatives, applications) · Geometry & algebra (lines, circles, conics) · Vectors · Complex numbers · Probability & statistics. ~Grade 12 level.
+            - link "Study this →" [ref=f20e245] [cursor=pointer]:
+              - /url: /study/mathematics
+          - generic [ref=f20e246]:
+            - paragraph [ref=f20e247]: Physics · 48Q / 60min
+            - paragraph [ref=f20e248]: Mechanics · Electricity & magnetism · Thermodynamics · Optics · Modern physics. Formula knowledge + diagram reading tested.
+            - link "Study this →" [ref=f20e249] [cursor=pointer]:
+              - /url: /study
+          - generic [ref=f20e250]:
+            - paragraph [ref=f20e251]: Chemistry · 48Q / 60min
+            - paragraph [ref=f20e252]: Basic concepts · Equations · Solutions & pH · Inorganic & organic · Redox · Equilibrium · Electrochemistry · Experiments.
+            - link "Study this →" [ref=f20e253] [cursor=pointer]:
+              - /url: /study
+          - generic [ref=f20e254]:
+            - paragraph [ref=f20e255]: Professional Chinese · 80Q / 90min
+            - paragraph [ref=f20e256]: Humanities and STEM streams. Reading comprehension · Vocabulary · Grammar · Writing. Chinese only — no English option.
+            - link "Study this →" [ref=f20e257] [cursor=pointer]:
+              - /url: /study
+      - generic [ref=f20e258]:
+        - generic [ref=f20e259]:
+          - paragraph [ref=f20e260]: Where you sit it
+          - heading "Test formats" [level=2] [ref=f20e261]
+          - list [ref=f20e262]:
+            - listitem [ref=f20e263]:
+              - paragraph [ref=f20e264]: Home-based online
+              - paragraph [ref=f20e265]: Proctored at home. Strict equipment + environment check, facial recognition.
+            - listitem [ref=f20e266]:
+              - paragraph [ref=f20e267]: Computer-based centers
+              - paragraph [ref=f20e268]: Official centers; new centers added per session (e.g. Vietnam, Thailand reported for 2026).
+            - listitem [ref=f20e269]:
+              - paragraph [ref=f20e270]: Paper-based
+              - paragraph [ref=f20e271]: Selected regions/sessions. Results take ~14 days instead of ~7.
+        - generic [ref=f20e272]:
+          - paragraph [ref=f20e273]: Scoring + results
+          - heading "How you are scored" [level=2] [ref=f20e274]
+          - list [ref=f20e275]:
+            - listitem [ref=f20e276]:
+              - generic [ref=f20e277]: Per subject
+              - generic [ref=f20e278]: 0–100
+            - listitem [ref=f20e279]:
+              - generic [ref=f20e280]: Question type
+              - generic [ref=f20e281]: All multiple-choice
+            - listitem [ref=f20e282]:
+              - generic [ref=f20e283]: Results online
+              - generic [ref=f20e284]: ~7 business days
+            - listitem [ref=f20e285]:
+              - generic [ref=f20e286]: Results paper
+              - generic [ref=f20e287]: ~14 days
+          - paragraph [ref=f20e288]: Include scores in your application materials where required. Universities set their own cutoffs — a score is not a pass/fail by itself.
+          - link "Rehearse scoring in a mock →" [ref=f20e289] [cursor=pointer]:
+            - /url: /mock
+      - generic [ref=f20e290]:
+        - paragraph [ref=f20e291]: Recommended by official prep guides
+        - heading "Prepare in three phases" [level=2] [ref=f20e292]
+        - generic [ref=f20e293]:
+          - link [ref=f20e294] [cursor=pointer]:
+            - /url: /study/mathematics
+            - paragraph [ref=f20e295]: Phase 1 · Foundation
+            - paragraph [ref=f20e296]: Cover every syllabus point systematically. Understand core concepts — this site's Stage 1–2 lessons.
+          - link [ref=f20e297] [cursor=pointer]:
+            - /url: /practice/timed
+            - paragraph [ref=f20e298]: Phase 2 · Intensification
+            - paragraph [ref=f20e299]: Timed drills on weak areas. Accuracy first, then speed (~75s/Q). Log every error by cause.
+          - link [ref=f20e300] [cursor=pointer]:
+            - /url: /mock
+            - paragraph [ref=f20e301]: Phase 3 · Sprint
+            - paragraph [ref=f20e302]: Full mocks on the official day schedule. Review against syllabus + mistake log after each.
+      - generic [ref=f20e303]:
+        - generic [ref=f20e304]:
+          - heading "Syllabus" [level=2] [ref=f20e305]
+          - list [ref=f20e306]:
+            - listitem [ref=f20e307]:
+              - generic [ref=f20e308]:
+                - paragraph [ref=f20e309]: Mathematics
+                - paragraph [ref=f20e310]: Algebra · Calculus · Geometry · Probability
+              - link "Open" [ref=f20e311] [cursor=pointer]:
+                - /url: /study/mathematics
+            - listitem [ref=f20e312]:
+              - generic [ref=f20e313]:
+                - paragraph [ref=f20e314]: Physics
+                - paragraph [ref=f20e315]: Mechanics · E&M · Optics · Modern
+              - link "Open" [ref=f20e316] [cursor=pointer]:
+                - /url: /study
+            - listitem [ref=f20e317]:
+              - generic [ref=f20e318]:
+                - paragraph [ref=f20e319]: Chemistry
+                - paragraph [ref=f20e320]: Organic · Inorganic · Physical
+              - link "Open" [ref=f20e321] [cursor=pointer]:
+                - /url: /study
+            - listitem [ref=f20e322]:
+              - generic [ref=f20e323]:
+                - paragraph [ref=f20e324]: Professional Chinese
+                - paragraph [ref=f20e325]: Reading · Vocab · Grammar · Writing
+              - link "Open" [ref=f20e326] [cursor=pointer]:
+                - /url: /study
+        - generic [ref=f20e327]:
+          - heading "FAQ" [level=2] [ref=f20e328]
+          - generic [ref=f20e329]:
+            - generic [ref=f20e330]:
+              - paragraph [ref=f20e331]: What is the CSCA exam?
+              - paragraph [ref=f20e332]: Admissions exam for international undergraduates — subjects set per program.
+            - generic [ref=f20e333]:
+              - paragraph [ref=f20e334]: Next exam?
+              - paragraph [ref=f20e335]: 5 sessions/year. Next expected Dec 2026 (TBA) — register at csca.cn.
+            - generic [ref=f20e336]:
+              - paragraph [ref=f20e337]: Cost?
+              - paragraph [ref=f20e338]: ¥450 one subject · ¥700 two or more.
+            - generic [ref=f20e339]:
+              - paragraph [ref=f20e340]: In English?
+              - paragraph [ref=f20e341]: Math/Physics/Chemistry may offer English. Chinese is Chinese-only.
+            - generic [ref=f20e342]:
+              - paragraph [ref=f20e343]: How do I register?
+              - paragraph [ref=f20e344]: csca.cn → subjects → pay → ticket + software → system test → login 1hr early.
+            - generic [ref=f20e345]:
+              - paragraph [ref=f20e346]: Who is exempt from Chinese?
+              - paragraph [ref=f20e347]: Fully English-taught programs. HSK 4 may exempt Chinese Language majors.
+            - generic [ref=f20e348]:
+              - paragraph [ref=f20e349]: When are results out?
+              - paragraph [ref=f20e350]: ~7 business days online · ~14 days paper.
+            - generic [ref=f20e351]:
+              - paragraph [ref=f20e352]: Am I ready?
+              - paragraph [ref=f20e353]: Core topics solid, mistakes cleared, mocks stable, time to spare.
+          - generic [ref=f20e354]:
+            - link "Check readiness" [ref=f20e355] [cursor=pointer]:
+              - /url: /progress
+            - link "Build plan" [ref=f20e356] [cursor=pointer]:
+              - /url: /plan
+      - generic [ref=f20e357]:
+        - paragraph [ref=f20e358]: Sources & verification · last checked 10 Sep 2026
+        - paragraph [ref=f20e359]: Session dates and procedures cross-checked across the official CSCA portal (csca.cn), Shanghai government study-in-China guides (english.shanghai.gov.cn), participating-university CSCA notices, and the CSCA Academy exam guide. December 2026 details are still TBA. Dates, languages, formats, centers and cutoffs change by session — csca.cn and your target university notice are final.
+  - contentinfo [ref=f20e360]:
+    - generic [ref=f20e361]:
+      - generic [ref=f20e362]:
+        - paragraph [ref=f20e363]: CSCA-Prep
+        - paragraph [ref=f20e364]: Understand → Diagnose → Learn → Practice → Review → Mock → Analyze → Repeat.
+      - generic [ref=f20e365]:
+        - paragraph [ref=f20e366]: Study
+        - list [ref=f20e367]:
+          - listitem [ref=f20e368]:
+            - link "Mathematics" [ref=f20e369] [cursor=pointer]:
+              - /url: /study/mathematics
+          - listitem [ref=f20e370]:
+            - link "Physics" [ref=f20e371] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f20e372]:
+            - link "Chemistry" [ref=f20e373] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f20e374]:
+            - link "Diagnostic" [ref=f20e375] [cursor=pointer]:
+              - /url: /diagnostic
+      - generic [ref=f20e376]:
+        - paragraph [ref=f20e377]: Practice
+        - list [ref=f20e378]:
+          - listitem [ref=f20e379]:
+            - link "CSCA Standard bank" [ref=f20e380] [cursor=pointer]:
+              - /url: /practice
+          - listitem [ref=f20e381]:
+            - link "Timed practice" [ref=f20e382] [cursor=pointer]:
+              - /url: /practice/timed
+          - listitem [ref=f20e383]:
+            - link "Full mocks 48Q/60min" [ref=f20e384] [cursor=pointer]:
+              - /url: /mock
+          - listitem [ref=f20e385]:
+            - link "Mistake Book" [ref=f20e386] [cursor=pointer]:
+              - /url: /mistakes
+      - generic [ref=f20e387]:
+        - paragraph [ref=f20e388]: Plan
+        - list [ref=f20e389]:
+          - listitem [ref=f20e390]:
+            - link "Study plan" [ref=f20e391] [cursor=pointer]:
+              - /url: /plan
+          - listitem [ref=f20e392]:
+            - link "Readiness" [ref=f20e393] [cursor=pointer]:
+              - /url: /progress
+          - listitem [ref=f20e394]:
+            - link "Resources" [ref=f20e395] [cursor=pointer]:
+              - /url: /resources
+          - listitem [ref=f20e396]:
+            - link "Subject wizard" [ref=f20e397] [cursor=pointer]:
+              - /url: /onboarding
+    - generic [ref=f20e398]: Independent study guide — not affiliated with the official CSCA exam. Confirm at csca.cn and your university.
+  - alert [ref=f20e399]

@@ -1,0 +1,106 @@
+[     707ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[   13900ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  138933ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  139637ms] [LOG] [Fast Refresh] done in 704ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  144422ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  144938ms] [LOG] [Fast Refresh] done in 515ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  152237ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  152684ms] [LOG] [Fast Refresh] done in 446ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  157339ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  158038ms] [ERROR] ./app/page.tsx
+Error: 
+  x Unexpected token `main`. Expected jsx identifier
+     ,-[C:\rafe\csca\app\page.tsx:152:1]
+ 152 | 
+ 153 | export default function Home() {
+ 154 |   return (
+ 155 |     <main className="text-slate-200">
+     :      ^^^^
+ 156 |       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(FAQ_JSON_LD) }} />
+ 157 | 
+ 158 |       {/* HERO */}
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/page.tsx @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  159781ms] [LOG] [Fast Refresh] done in 2442ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  159976ms] [LOG] [Fast Refresh] done in 2636ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  160099ms] [ERROR] ./app/page.tsx
+Error: 
+  x Unexpected token `main`. Expected jsx identifier
+     ,-[C:\rafe\csca\app\page.tsx:152:1]
+ 152 | 
+ 153 | export default function Home() {
+ 154 |   return (
+ 155 |     <main className="text-slate-200">
+     :      ^^^^
+ 156 |       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(FAQ_JSON_LD) }} />
+ 157 | 
+ 158 |       {/* HERO */}
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/page.tsx @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  160271ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/?_rsc=1p60s:0
+[  160325ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/:0
+[  160615ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///./node_modules/react-dom/cjs/react-dom.development.js:29889
+[  160702ms] ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error: 
+  x Unexpected token `main`. Expected jsx identifier
+     ,-[C:\rafe\csca\app\page.tsx:152:1]
+ 152 | 
+ 153 | export default function Home() {
+ 154 |   return (
+ 155 |     <main className="text-slate-200">
+     :      ^^^^
+ 156 |       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(FAQ_JSON_LD) }} />
+ 157 | 
+ 158 |       {/* HERO */}
+     `----
+
+
+Caused by:
+    Syntax Error
+    at processResult (file://C:\rafe\csca\node_modules\next\dist\compiled\webpack\bundle5.js:28:400590)
+    at <unknown> (file://C:\rafe\csca\node_modules\next\dist\compiled\webpack\bundle5.js:28:402302)
+    at <unknown> (file://C:\rafe\csca\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:8645)
+    at <unknown> (file://C:\rafe\csca\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:5019)
+    at r.callback (file://C:\rafe\csca\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:4039)
+[  160682ms] [LOG] [HMR] connected @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/websocket.js:38
+[  160685ms] [ERROR] ./app/page.tsx
+Error: 
+  x Unexpected token `main`. Expected jsx identifier
+     ,-[C:\rafe\csca\app\page.tsx:152:1]
+ 152 | 
+ 153 | export default function Home() {
+ 154 |   return (
+ 155 |     <main className="text-slate-200">
+     :      ^^^^
+ 156 |       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(FAQ_JSON_LD) }} />
+ 157 | 
+ 158 |       {/* HERO */}
+     `----
+
+Caused by:
+    Syntax Error @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  164009ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  164916ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  165533ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:3000/_next/static/webpack/b737c7a0bb31b52c.webpack.hot-update.json:0
+[  165534ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:349
+[  166012ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  170872ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  171254ms] [LOG] [Fast Refresh] done in 383ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  175798ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  176107ms] [LOG] [Fast Refresh] done in 308ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  183721ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  184308ms] [LOG] [Fast Refresh] done in 587ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  189706ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  190136ms] [LOG] [Fast Refresh] done in 429ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  198032ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  198496ms] [LOG] [Fast Refresh] done in 465ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43

@@ -1,0 +1,123 @@
+CSCA-Prep.com — Detailed Product Plan
+1. The actual goal
+The website should answer five questions for every student:
+- What is CSCA?
+- What exactly do I need to study?
+- How good am I right now?
+- What should I practice next?
+- Am I ready for the real exam?
+So the platform should be built around:
+Understand → Diagnose → Learn → Practice → Review → Mock → Analyze → Repeat
+Not: Read articles → randomly answer questions.
+
+2. First-time student journey
+Student arrives: "Prepare for CSCA with a complete study system."
+Step 1 — Choose your goal: CSCA Mathematics / Mathematics + Physics / Mathematics + Chemistry / Mathematics + Physics + Chemistry / Professional Chinese / I don't know yet
+Step 2 — Choose your target: University admission / Scholarship / Both / Just preparing for CSCA
+Step 3 — Exam date: [Select date]
+Step 4 — Diagnostic: Take a 10-15 minute diagnostic test. Don't make the student study before discovering their level.
+
+3. Diagnostic system
+Subject-specific. For Mathematics, balanced diagnostic covering major syllabus areas.
+Mathematics Diagnostic: Algebra 20%, Functions 20%, Calculus 15%, Geometry 15%, Vectors 10%, Probability 10%, Statistics 10%.
+Exact weighting should ultimately be based on official syllabus/question evidence rather than invented weighting.
+After test: Score 68/100, Strong (Algebra, Functions), Needs work (Calculus, Probability), Weak (Geometry). Then: Build my study plan.
+
+4. Mathematics should be HUGE
+Make Mathematics an entire learning ecosystem: Study, Practice, Timed Practice, Mock Exams, Formula Book, Mistakes, Progress.
+
+5. Mathematics syllabus system
+Based on currently published CSCA syllabus information, Mathematics area should cover major areas including sets/inequalities, functions, sequences, calculus fundamentals, geometry/algebra, vectors, complex numbers, probability and statistics.
+Mathematics
+├── Sets & Inequalities
+├── Functions (Domain & Range, Monotonicity, Even/Odd, Power, Exponential, Logarithmic, Trigonometric)
+├── Sequences (Arithmetic, Geometric)
+├── Calculus (Limits, Derivatives, Basic Applications)
+├── Geometry (Analytic Geometry, Lines, Circles, Ellipses, Hyperbolas, Parabolas)
+├── Vectors
+├── Complex Numbers
+├── Solid Geometry
+├── Probability
+└── Statistics
+Exact production taxonomy should be validated against current official syllabus before publishing.
+
+6. Every topic needs a 5-stage learning system
+Topic: Derivatives. Stage 1 Learn (meaning, rules, formula, when to use), Stage 2 See (worked examples), Stage 3 Practice (Easy → Medium → CSCA level), Stage 4 Timed (10 questions, 12 minutes), Stage 5 Mastery (Topic mastery 82%: Concept 95%, Accuracy 84%, Speed 68%). Then: Practice speed.
+
+7. Three separate skills should be measured
+Knowledge (understand?), Accuracy (correct?), Speed (under pressure?). Example Derivative: Knowledge 92%, Accuracy 84%, Speed 63% → "I know derivatives, but I'm too slow."
+
+8. Question bank architecture
+Fields: Question ID, Subject, Chapter, Topic, Subtopic, Difficulty, Question type, Correct answer, Explanation, Source, Source type, Exam relevance, Estimated time.
+Difficulty: Foundation, Basic, CSCA Standard, Challenging, Advanced. Prevent problem where practice feels harder than real exam.
+
+9. Difficulty calibration
+Level A Foundation (learn), Level B Exam Standard (closest to CSCA), Level C Challenge (harder to strengthen). Never mix without telling student. Example: CSCA Standard Practice, not Random 50 questions.
+
+10. Real CSCA practice mode
+Dedicated mode: CSCA Standard. Only questions reviewed against current syllabus, official sample material, known exam format, appropriate difficulty, question style. Promise: Practice what you actually need to know.
+
+11. Question explanation
+Your answer C, Correct B, Why B? step-by-step, Why not C?, Concept tested, Difficulty CSCA Standard, Time target ~60-75s. Then: Practice a similar question.
+
+12. I got this wrong system
+Add to Mistake Book automatically: Question, Topic, Wrong answer, Correct answer, Reason, Date, Attempts. Ask: Why did you get it wrong? Didn't know concept / Forgot formula / Calculation mistake / Misread / Ran out of time / Guessed.
+
+13. Mistake analytics
+Last 100 mistakes: 35% Concept gaps, 27% Calculation, 18% Misreading, 12% Time, 8% Guessing → Biggest problem is calculation accuracy.
+
+14. Physics
+Same system: Learn, Practice, Timed, Mock, Mistakes, Formula Book, Progress. Areas: mechanics, electromagnetism, thermodynamics, optics, modern physics. Track: Concept, Formula, Calculation, Diagram, Speed.
+
+15. Chemistry
+Same architecture. Areas: basic concepts, equations, solutions/pH, inorganic/organic, redox, equilibrium, electrochemistry, experimental. Track: Concept, Formula/equation, Reaction recognition, Calculation, Speed.
+
+16. Professional Chinese
+Its own subject: STEM Chinese, Humanities Chinese. Guidance distinguishes Humanities vs STEM; English-taught applicants may differ. Help student determine: Do I actually need this subject?
+
+17. Subject selection wizard
+Inputs: Target major (e.g. Computer Science), University [optional], Teaching language English/Chinese, Scholarship Yes/No. Output: Mathematics REQUIRED, Physics CHECK UNIVERSITY, etc. Prominently: Always verify final requirements with target university and official CSCA info.
+
+18. Mock exam system
+Quick Mock 10q/15m, Half Mock 24q/30m, Full Mock 48q/60m (current platforms use 48/60 for Math/Physics/Chemistry), Final Exam Simulation full experience across required subjects.
+
+19. Mock exam result
+Not just Score 82. Show: 82/100, Accuracy 85%, Speed 79%, Confidence 72%, Correct 41 Wrong 7 Skipped 0. Topic analysis: Functions 94%, Algebra 91%, Geometry 72%, Probability 61%, Calculus 68%. Then: Before next mock, review Probability and Calculus.
+
+20. Exam pacing system
+If 48q/60m applies, ~75s per question. Suggested strategy (not official rule): 0-30m easy+medium, 30-45m difficult, 45-55m flagged, 55-60m review.
+
+21. Exam simulator
+Realistic: Simulation Rules, full timer, no explanations/hints, flag, prev/next, navigator, auto-submit. During: QUESTION 31/48, Time 22:41, A/B/C/D, Flag/Previous/Next. After: Exam complete → analytics.
+
+22. Exam readiness system
+Don't say guaranteed to pass. Show Preparation Readiness 78%: Knowledge 84%, Accuracy 81%, Speed 69%, Mock consistency 77%, Weak topics 72%. Status: Almost ready, focus on speed and probability.
+
+23. Study planner
+Dynamic, not Monday=Math. Weak areas: Probability 52%, Calculus 61%, etc. Generates: TODAY 90 MIN (30 Probability, 20 Calculus, 20 Timed Math, 20 Mistake review). Plan changes as Probability 52%→78%.
+
+24. Daily mission
+Simple dashboard: Today's CSCA Mission — 15 Math Qs, Review 5 mistakes, 10-min timed, Learn one weak topic.
+
+25. Final 30-day mode
+Auto-unlock: 30 days (syllabus+weak+practice), 14 days (timed+mocks+mistakes), 7 days (full mocks+formulas+weak), 3 days (mistake book+formula+light), 1 day (quick revision, instructions, device prep, timing, rest checklist).
+
+26. What should I study now?
+Button analyzes exam date, subjects, weak topics, recent performance, mistakes, time available → Practice Probability 15 Qs. Why? Accuracy 58% weakest Math topic. Feels intelligent without AI.
+
+27. Content hierarchy
+SUBJECT → CHAPTER → TOPIC → LESSON → PRACTICE → TIMED PRACTICE → MOCK → ANALYTICS. Every question→topic→lesson, every mistake→topic, every mock mistake→topic. Complete learning graph.
+
+28. Website navigation
+Home, Study (Math/Physics/Chemistry/Professional Chinese), Practice (Bank/Topic/Timed/Weak/Mistake Book), Mock Exams (Quick/Half/Full/Simulator), Study Plan, Progress, Resources (CSCA Guide, Exam Format, Syllabus, Formula Sheets, Exam Dates, FAQ, China Universities, Scholarships).
+
+29. What makes CSCA-Prep different from CSCA.app
+Emphasize: 1 Syllabus mapped, 2 Difficulty calibrated, 3 Real exam simulation, 4 Mistake diagnosis, 5 Speed analysis, 6 Adaptive study, 7 Transparent sourcing (Official vs original vs recalled vs practice), 8 Complete path Beginner→ready.
+
+30. Most important database structure
+User → Subjects, Topics, Lessons, Questions, Attempts, Mistakes, Mock Exams, Mock Attempts, Study Plans, Progress, Saved Questions, Achievements.
+Question → Subject, Topic, Difficulty, Source, Answer, Explanation, Estimated Time.
+Attempt → User, Question, Answer, Correct?, Time spent, Error type, Date.
+
+31. Final product vision
+"I don't know anything about CSCA." → "I know exactly what subjects I need." → "I know my syllabus." → "I know my weak topics." → "I have practiced every topic." → "I understand my mistakes." → "I can finish within time." → "I have taken several realistic full mocks." → "My scores are consistently strong." → "I am ready for exam day."

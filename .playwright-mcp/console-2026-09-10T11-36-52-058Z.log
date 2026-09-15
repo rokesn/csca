@@ -1,0 +1,186 @@
+[     805ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[   23429ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[   25085ms] [LOG] [Fast Refresh] done in 1655ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  110915ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  111773ms] [LOG] [Fast Refresh] done in 858ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  125380ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  125701ms] [LOG] [Fast Refresh] done in 321ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  339332ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  339838ms] [LOG] [Fast Refresh] done in 505ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  340784ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  341039ms] [LOG] [Fast Refresh] done in 254ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  345995ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  346584ms] [LOG] [Fast Refresh] done in 590ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  351775ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  352054ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  352070ms] [LOG] [Fast Refresh] done in 17ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  352301ms] [LOG] [Fast Refresh] done in 247ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  354575ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  354834ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  354888ms] [LOG] [Fast Refresh] done in 53ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  355384ms] [LOG] [Fast Refresh] done in 550ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  358137ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  358326ms] [LOG] [Fast Refresh] done in 188ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  363460ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  363708ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  363733ms] [LOG] [Fast Refresh] done in 26ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  364288ms] [LOG] [Fast Refresh] done in 580ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  387765ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  388095ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  388113ms] [LOG] [Fast Refresh] done in 17ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  388604ms] [LOG] [Fast Refresh] done in 508ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  395714ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  396000ms] [LOG] [Fast Refresh] done in 286ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  409022ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  409261ms] [LOG] [Fast Refresh] done in 239ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  409294ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  409400ms] [ERROR] ./app/study/mathematics/page.tsx
+Error: 
+  x Expression expected
+    ,-[C:\rafe\csca\app\study\mathematics\page.tsx:68:1]
+ 68 |     return false;
+ 69 |   });
+ 70 |   if (byField.length > 0) return byField;
+ 71 |   );
+    :   ^
+ 72 |   if (byField.length > 0) return byField;
+ 73 |   return [];
+ 74 | }
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/study/mathematics/page.tsx @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  409671ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/study/mathematics?_rsc=1k8rx:0
+[  409996ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/study/mathematics:0
+[  410359ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///./node_modules/react-dom/cjs/react-dom.development.js:29889
+[  410444ms] ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error: 
+  x Expression expected
+    ,-[C:\rafe\csca\app\study\mathematics\page.tsx:68:1]
+ 68 |     return false;
+ 69 |   });
+ 70 |   if (byField.length > 0) return byField;
+ 71 |   );
+    :   ^
+ 72 |   if (byField.length > 0) return byField;
+ 73 |   return [];
+ 74 | }
+    `----
+
+
+Caused by:
+    Syntax Error
+    at processResult (file://C:\rafe\csca\node_modules\next\dist\compiled\webpack\bundle5.js:28:400590)
+    at <unknown> (file://C:\rafe\csca\node_modules\next\dist\compiled\webpack\bundle5.js:28:402302)
+    at <unknown> (file://C:\rafe\csca\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:8645)
+    at <unknown> (file://C:\rafe\csca\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:5019)
+    at r.callback (file://C:\rafe\csca\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:4039)
+[  410444ms] [LOG] [HMR] connected @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/websocket.js:38
+[  410453ms] [ERROR] ./app/study/mathematics/page.tsx
+Error: 
+  x Expression expected
+    ,-[C:\rafe\csca\app\study\mathematics\page.tsx:68:1]
+ 68 |     return false;
+ 69 |   });
+ 70 |   if (byField.length > 0) return byField;
+ 71 |   );
+    :   ^
+ 72 |   if (byField.length > 0) return byField;
+ 73 |   return [];
+ 74 | }
+    `----
+
+Caused by:
+    Syntax Error @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  412858ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  412962ms] [ERROR] ./app/study/mathematics/page.tsx
+Error: 
+  x Expression expected
+    ,-[C:\rafe\csca\app\study\mathematics\page.tsx:68:1]
+ 68 |     return false;
+ 69 |   });
+ 70 |   if (byField.length > 0) return byField;
+ 71 |   );
+    :   ^
+ 72 |   if (byField.length > 0) return byField;
+ 73 |   return [];
+ 74 | }
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/study/mathematics/page.tsx @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  413553ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  413962ms] [ERROR] ./app/study/mathematics/page.tsx
+Error: 
+  x Expression expected
+    ,-[C:\rafe\csca\app\study\mathematics\page.tsx:68:1]
+ 68 |     return false;
+ 69 |   });
+ 70 |   if (byField.length > 0) return byField;
+ 71 |   );
+    :   ^
+ 72 |   if (byField.length > 0) return byField;
+ 73 |   return [];
+ 74 | }
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/study/mathematics/page.tsx @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  414108ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/study/mathematics:0
+[  414830ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///./node_modules/react-dom/cjs/react-dom.development.js:29889
+[  414856ms] ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error: 
+  x Expression expected
+    ,-[C:\rafe\csca\app\study\mathematics\page.tsx:68:1]
+ 68 |     return false;
+ 69 |   });
+ 70 |   if (byField.length > 0) return byField;
+ 71 |   );
+    :   ^
+ 72 |   if (byField.length > 0) return byField;
+ 73 |   return [];
+ 74 | }
+    `----
+
+
+Caused by:
+    Syntax Error
+    at processResult (file://C:\rafe\csca\node_modules\next\dist\compiled\webpack\bundle5.js:28:400590)
+    at <unknown> (file://C:\rafe\csca\node_modules\next\dist\compiled\webpack\bundle5.js:28:402302)
+    at <unknown> (file://C:\rafe\csca\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:8645)
+    at <unknown> (file://C:\rafe\csca\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:5019)
+    at r.callback (file://C:\rafe\csca\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:4039)
+[  414857ms] [LOG] [HMR] connected @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/websocket.js:38
+[  419413ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  419640ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  420201ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:3000/_next/static/webpack/b737c7a0bb31b52c.webpack.hot-update.json:0
+[  420202ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:349
+[  420707ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  422068ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  422292ms] [LOG] [Fast Refresh] done in 224ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  440237ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  440689ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  440708ms] [LOG] [Fast Refresh] done in 19ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  441194ms] [LOG] [Fast Refresh] done in 505ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  464182ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  464484ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  464502ms] [LOG] [Fast Refresh] done in 18ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  464943ms] [LOG] [Fast Refresh] done in 458ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  489998ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  490455ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  490476ms] [LOG] [Fast Refresh] done in 20ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  490937ms] [LOG] [Fast Refresh] done in 482ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  494944ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  495373ms] [LOG] [Fast Refresh] done in 428ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  541263ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  596679ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  597097ms] [LOG] [Fast Refresh] done in 420ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43

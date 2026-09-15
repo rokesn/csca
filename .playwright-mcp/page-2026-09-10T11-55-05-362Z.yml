@@ -1,0 +1,135 @@
+- generic [active] [ref=f35e1]:
+  - banner [ref=f35e2]:
+    - navigation [ref=f35e3]:
+      - link "CSCA-Prep logo CSCA-Prep Professional Study" [ref=f35e4] [cursor=pointer]:
+        - /url: /
+        - img "CSCA-Prep logo" [ref=f35e5]
+        - generic [ref=f35e6]:
+          - generic [ref=f35e7]: CSCA-Prep
+          - generic [ref=f35e8]: Professional Study
+      - generic [ref=f35e9]:
+        - link "Study" [ref=f35e10] [cursor=pointer]:
+          - /url: /study
+        - link "Practice" [ref=f35e11] [cursor=pointer]:
+          - /url: /practice
+        - link "Mock Exams" [ref=f35e12] [cursor=pointer]:
+          - /url: /mock
+        - link "Study Plan" [ref=f35e13] [cursor=pointer]:
+          - /url: /plan
+        - link "Progress" [ref=f35e14] [cursor=pointer]:
+          - /url: /progress
+        - link "Resources" [ref=f35e15] [cursor=pointer]:
+          - /url: /resources
+        - link "Free Diagnostic" [ref=f35e16] [cursor=pointer]:
+          - /url: /diagnostic
+  - main [ref=f35e17]:
+    - link "← Mathematics" [ref=f35e18] [cursor=pointer]:
+      - /url: /study/mathematics
+    - generic [ref=f35e20]:
+      - paragraph [ref=f35e21]: Calculus
+      - heading "Derivatives" [level=1] [ref=f35e22]
+      - paragraph [ref=f35e23]: Derivative meaning (slope + rate of change), power/product/quotient/chain rules, and derivatives of key functions.
+      - generic [ref=f35e24]:
+        - generic [ref=f35e25]: "Time target: ~70s per question"
+        - link "All formulas →" [ref=f35e26] [cursor=pointer]:
+          - /url: /study/mathematics/formulas
+    - tablist "Topic stages" [ref=f35e28]:
+      - tab "1 Learn" [selected] [ref=f35e29] [cursor=pointer]:
+        - generic [ref=f35e30]: "1"
+        - text: Learn
+      - tab "2 See" [ref=f35e31] [cursor=pointer]:
+        - generic [ref=f35e32]: "2"
+        - text: See
+      - tab "3 Practice" [ref=f35e33] [cursor=pointer]:
+        - generic [ref=f35e34]: "3"
+        - text: Practice
+      - tab "4 Timed" [ref=f35e35] [cursor=pointer]:
+        - generic [ref=f35e36]: "4"
+        - text: Timed
+      - tab "5 Mastery" [ref=f35e37] [cursor=pointer]:
+        - generic [ref=f35e38]: "5"
+        - text: Mastery
+    - region "Stage 1 Learn" [ref=f35e40]:
+      - heading "Stage 1 — Learn" [level=2] [ref=f35e41]
+      - generic [ref=f35e42]:
+        - heading "Why this matters" [level=3] [ref=f35e43]
+        - paragraph [ref=f35e44]: "Derivative rules are CSCA's calculus engine: tangents, monotonicity, and every optimization item reduce to differentiating correctly and fast."
+      - heading "Key points" [level=3] [ref=f35e45]
+      - list [ref=f35e47]:
+        - listitem [ref=f35e48]: "Classify the structure before differentiating: single power → power rule, product → product rule, quotient → quotient rule, nested → chain rule."
+        - listitem [ref=f35e49]: "Chain rule multiplies rates layer by layer: derivative of the outside at the inside, times the derivative of the inside — repeat for triple nesting."
+        - listitem [ref=f35e50]: "Memorize the transcendental five: eˣ reproduces, ln x gives 1/x, sin ↔ cos with the minus on (cos)′, plus aˣ ln a and tan → sec²."
+        - listitem [ref=f35e51]: Simplify first (expand products, split quotients, convert roots to fractional powers) so the power rule handles more terms directly.
+        - listitem [ref=f35e52]: Read f′(a) geometrically as the tangent slope at a and physically as the instantaneous rate of change of f at a.
+      - heading "Formulas" [level=3] [ref=f35e53]
+      - list [ref=f35e54]:
+        - listitem [ref=f35e55]: (xⁿ)′ = n·xⁿ⁻¹
+        - listitem [ref=f35e56]: (uv)′ = u′v + uv′
+        - listitem [ref=f35e57]: (u/v)′ = (u′v − uv′)/v²
+        - listitem [ref=f35e58]: "[f(g(x))]′ = f′(g(x)) · g′(x)"
+        - listitem [ref=f35e59]: (eˣ)′ = eˣ; (ln x)′ = 1/x; (sin x)′ = cos x; (cos x)′ = −sin x
+        - listitem [ref=f35e60]: (c)′ = 0; (cu)′ = cu′; (u ± v)′ = u′ ± v′
+        - listitem [ref=f35e61]: (tan x)′ = sec²x; (aˣ)′ = aˣ ln a; (log_a x)′ = 1/(x ln a)
+        - listitem [ref=f35e62]: f′(a) = lim(h→0)(f(a+h) − f(a))/h — slope of tangent at a
+      - generic [ref=f35e64]:
+        - paragraph [ref=f35e65]: Classic traps
+        - list [ref=f35e67]:
+          - listitem [ref=f35e68]: Dropping the inner derivative in the chain rule, e.g. writing (sin(x²))′ = cos(x²).
+          - listitem [ref=f35e69]: Swapping quotient-rule order to (uv′ − u′v)/v² or forgetting to square the denominator.
+          - listitem [ref=f35e70]: Writing (ln x)′ = 1/x without restricting x > 0, or (xⁿ)′ = nxⁿ without lowering the exponent.
+          - listitem [ref=f35e71]: Applying product/quotient rules to compositions (or vice versa) instead of naming the outer structure first.
+      - generic [ref=f35e73]:
+        - paragraph [ref=f35e74]: Exam tip
+        - generic [ref=f35e75]: Circle the outer function and box the inner one before writing anything — visible nesting makes the missing ×g′(x) factor almost impossible to drop.
+      - 'button "Next: See worked examples →" [ref=f35e76] [cursor=pointer]'
+  - contentinfo [ref=f35e77]:
+    - generic [ref=f35e78]:
+      - generic [ref=f35e79]:
+        - paragraph [ref=f35e80]: CSCA-Prep
+        - paragraph [ref=f35e81]: Understand → Diagnose → Learn → Practice → Review → Mock → Analyze → Repeat.
+      - generic [ref=f35e82]:
+        - paragraph [ref=f35e83]: Study
+        - list [ref=f35e84]:
+          - listitem [ref=f35e85]:
+            - link "Mathematics" [ref=f35e86] [cursor=pointer]:
+              - /url: /study/mathematics
+          - listitem [ref=f35e87]:
+            - link "Physics" [ref=f35e88] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f35e89]:
+            - link "Chemistry" [ref=f35e90] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f35e91]:
+            - link "Diagnostic" [ref=f35e92] [cursor=pointer]:
+              - /url: /diagnostic
+      - generic [ref=f35e93]:
+        - paragraph [ref=f35e94]: Practice
+        - list [ref=f35e95]:
+          - listitem [ref=f35e96]:
+            - link "CSCA Standard bank" [ref=f35e97] [cursor=pointer]:
+              - /url: /practice
+          - listitem [ref=f35e98]:
+            - link "Timed practice" [ref=f35e99] [cursor=pointer]:
+              - /url: /practice/timed
+          - listitem [ref=f35e100]:
+            - link "Full mocks 48Q/60min" [ref=f35e101] [cursor=pointer]:
+              - /url: /mock
+          - listitem [ref=f35e102]:
+            - link "Mistake Book" [ref=f35e103] [cursor=pointer]:
+              - /url: /mistakes
+      - generic [ref=f35e104]:
+        - paragraph [ref=f35e105]: Plan
+        - list [ref=f35e106]:
+          - listitem [ref=f35e107]:
+            - link "Study plan" [ref=f35e108] [cursor=pointer]:
+              - /url: /plan
+          - listitem [ref=f35e109]:
+            - link "Readiness" [ref=f35e110] [cursor=pointer]:
+              - /url: /progress
+          - listitem [ref=f35e111]:
+            - link "Resources" [ref=f35e112] [cursor=pointer]:
+              - /url: /resources
+          - listitem [ref=f35e113]:
+            - link "Subject wizard" [ref=f35e114] [cursor=pointer]:
+              - /url: /onboarding
+    - generic [ref=f35e115]: Independent study guide — not affiliated with the official CSCA exam. Confirm at csca.cn and your university.

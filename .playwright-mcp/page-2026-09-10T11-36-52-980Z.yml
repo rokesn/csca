@@ -1,0 +1,96 @@
+- generic [active] [ref=f26e1]:
+  - banner [ref=f26e2]:
+    - navigation [ref=f26e3]:
+      - link "CSCA-Prep logo CSCA-Prep Professional Study" [ref=f26e4] [cursor=pointer]:
+        - /url: /
+        - img "CSCA-Prep logo" [ref=f26e5]
+        - generic [ref=f26e6]:
+          - generic [ref=f26e7]: CSCA-Prep
+          - generic [ref=f26e8]: Professional Study
+      - generic [ref=f26e9]:
+        - link "Study" [ref=f26e10] [cursor=pointer]:
+          - /url: /study
+        - link "Practice" [ref=f26e11] [cursor=pointer]:
+          - /url: /practice
+        - link "Mock Exams" [ref=f26e12] [cursor=pointer]:
+          - /url: /mock
+        - link "Study Plan" [ref=f26e13] [cursor=pointer]:
+          - /url: /plan
+        - link "Progress" [ref=f26e14] [cursor=pointer]:
+          - /url: /progress
+        - link "Resources" [ref=f26e15] [cursor=pointer]:
+          - /url: /resources
+        - link "Free Diagnostic" [ref=f26e16] [cursor=pointer]:
+          - /url: /diagnostic
+  - main [ref=f26e17]:
+    - paragraph [ref=f26e18]: Mistake Book
+    - heading "I got this wrong" [level=1] [ref=f26e19]
+    - paragraph [ref=f26e20]: Question · Topic · Wrong / Correct · Reason · Date (Sec 12). Review the weak ones first.
+    - region "Mistake analytics" [ref=f26e22]:
+      - heading "Mistake analytics" [level=2] [ref=f26e23]
+      - paragraph [ref=f26e24]: Last 0 mistakes by error type
+      - paragraph [ref=f26e25]: No mistakes logged yet — keep practicing.
+      - paragraph [ref=f26e26]: No mistakes logged yet — keep practicing.
+    - group "Filter by error type" [ref=f26e27]:
+      - button "All (0)" [pressed] [ref=f26e28] [cursor=pointer]
+      - button "Didn't know concept (0)" [ref=f26e29] [cursor=pointer]
+      - button "Forgot formula (0)" [ref=f26e30] [cursor=pointer]
+      - button "Calculation mistake (0)" [ref=f26e31] [cursor=pointer]
+      - button "Misread question (0)" [ref=f26e32] [cursor=pointer]
+      - button "Ran out of time (0)" [ref=f26e33] [cursor=pointer]
+      - button "Guessed (0)" [ref=f26e34] [cursor=pointer]
+    - generic [ref=f26e35]:
+      - paragraph [ref=f26e36]: No mistakes yet — practice and log why you missed it.
+      - link "Go to Practice →" [ref=f26e37] [cursor=pointer]:
+        - /url: /practice
+  - contentinfo [ref=f26e38]:
+    - generic [ref=f26e39]:
+      - generic [ref=f26e40]:
+        - paragraph [ref=f26e41]: CSCA-Prep
+        - paragraph [ref=f26e42]: Understand → Diagnose → Learn → Practice → Review → Mock → Analyze → Repeat.
+      - generic [ref=f26e43]:
+        - paragraph [ref=f26e44]: Study
+        - list [ref=f26e45]:
+          - listitem [ref=f26e46]:
+            - link "Mathematics" [ref=f26e47] [cursor=pointer]:
+              - /url: /study/mathematics
+          - listitem [ref=f26e48]:
+            - link "Physics" [ref=f26e49] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f26e50]:
+            - link "Chemistry" [ref=f26e51] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f26e52]:
+            - link "Diagnostic" [ref=f26e53] [cursor=pointer]:
+              - /url: /diagnostic
+      - generic [ref=f26e54]:
+        - paragraph [ref=f26e55]: Practice
+        - list [ref=f26e56]:
+          - listitem [ref=f26e57]:
+            - link "CSCA Standard bank" [ref=f26e58] [cursor=pointer]:
+              - /url: /practice
+          - listitem [ref=f26e59]:
+            - link "Timed practice" [ref=f26e60] [cursor=pointer]:
+              - /url: /practice/timed
+          - listitem [ref=f26e61]:
+            - link "Full mocks 48Q/60min" [ref=f26e62] [cursor=pointer]:
+              - /url: /mock
+          - listitem [ref=f26e63]:
+            - link "Mistake Book" [ref=f26e64] [cursor=pointer]:
+              - /url: /mistakes
+      - generic [ref=f26e65]:
+        - paragraph [ref=f26e66]: Plan
+        - list [ref=f26e67]:
+          - listitem [ref=f26e68]:
+            - link "Study plan" [ref=f26e69] [cursor=pointer]:
+              - /url: /plan
+          - listitem [ref=f26e70]:
+            - link "Readiness" [ref=f26e71] [cursor=pointer]:
+              - /url: /progress
+          - listitem [ref=f26e72]:
+            - link "Resources" [ref=f26e73] [cursor=pointer]:
+              - /url: /resources
+          - listitem [ref=f26e74]:
+            - link "Subject wizard" [ref=f26e75] [cursor=pointer]:
+              - /url: /onboarding
+    - generic [ref=f26e76]: Independent study guide — not affiliated with the official CSCA exam. Confirm at csca.cn and your university.

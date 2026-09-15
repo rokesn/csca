@@ -1,0 +1,53 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - navigation [ref=f4e3]:
+      - link "CSCA-Prep.com" [ref=f4e4] [cursor=pointer]:
+        - /url: /
+      - link "Home" [ref=f4e5] [cursor=pointer]:
+        - /url: /
+      - link "Study" [ref=f4e6] [cursor=pointer]:
+        - /url: /study
+      - link "Practice" [ref=f4e7] [cursor=pointer]:
+        - /url: /practice
+      - link "Mock" [ref=f4e8] [cursor=pointer]:
+        - /url: /mock
+      - link "Study Plan" [ref=f4e9] [cursor=pointer]:
+        - /url: /plan
+      - link "Progress" [ref=f4e10] [cursor=pointer]:
+        - /url: /progress
+      - link "Resources" [ref=f4e11] [cursor=pointer]:
+        - /url: /resources
+  - main [ref=f4e12]:
+    - paragraph [ref=f4e13]: CSCA-Prep.com
+    - heading "Prepare for CSCA with complete study system." [level=1] [ref=f4e14]
+    - paragraph [ref=f4e15]: Understand → Diagnose → Learn → Practice → Review → Mock → Analyze → Repeat. Start with CSCA Standard practice — questions calibrated to the real exam. Never mixed with other difficulties without a label.
+    - generic [ref=f4e16]:
+      - link "Start CSCA Standard Practice" [ref=f4e17] [cursor=pointer]:
+        - /url: /practice
+      - link "Timed Practice (10 Qs / 12 min)" [ref=f4e18] [cursor=pointer]:
+        - /url: /practice/timed
+    - generic [ref=f4e19]:
+      - link [ref=f4e20] [cursor=pointer]:
+        - /url: /study
+        - paragraph [ref=f4e21]: Study
+        - paragraph [ref=f4e22]: "Syllabus-mapped lessons: Math, Physics, Chemistry, Professional Chinese."
+      - link [ref=f4e23] [cursor=pointer]:
+        - /url: /practice
+        - paragraph [ref=f4e24]: Practice
+        - paragraph [ref=f4e25]: CSCA Standard bank, topic sets, timed practice, weak topics, Mistake Book.
+      - link [ref=f4e26] [cursor=pointer]:
+        - /url: /mock
+        - paragraph [ref=f4e27]: Mock
+        - paragraph [ref=f4e28]: Quick 10q/15m, Half 24q/30m, Full 48q/60m, Final Exam Simulation.
+      - link [ref=f4e29] [cursor=pointer]:
+        - /url: /plan
+        - paragraph [ref=f4e30]: Study Plan
+        - paragraph [ref=f4e31]: Dynamic daily mission from weak topics, exam date, and time available.
+      - link [ref=f4e32] [cursor=pointer]:
+        - /url: /progress
+        - paragraph [ref=f4e33]: Progress
+        - paragraph [ref=f4e34]: Knowledge, accuracy, speed, mock consistency, and readiness.
+      - link [ref=f4e35] [cursor=pointer]:
+        - /url: /resources
+        - paragraph [ref=f4e36]: Resources
+        - paragraph [ref=f4e37]: CSCA guide, exam format, syllabus, formula sheets, dates, FAQ.

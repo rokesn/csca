@@ -1,0 +1,355 @@
+- generic [active] [ref=f31e1]:
+  - banner [ref=f31e2]:
+    - navigation [ref=f31e3]:
+      - link "CSCA-Prep logo CSCA-Prep Professional Study" [ref=f31e4] [cursor=pointer]:
+        - /url: /
+        - img "CSCA-Prep logo" [ref=f31e5]
+        - generic [ref=f31e6]:
+          - generic [ref=f31e7]: CSCA-Prep
+          - generic [ref=f31e8]: Professional Study
+      - generic [ref=f31e9]:
+        - link "Study" [ref=f31e10] [cursor=pointer]:
+          - /url: /study
+        - link "Practice" [ref=f31e11] [cursor=pointer]:
+          - /url: /practice
+        - link "Mock Exams" [ref=f31e12] [cursor=pointer]:
+          - /url: /mock
+        - link "Study Plan" [ref=f31e13] [cursor=pointer]:
+          - /url: /plan
+        - link "Progress" [ref=f31e14] [cursor=pointer]:
+          - /url: /progress
+        - link "Resources" [ref=f31e15] [cursor=pointer]:
+          - /url: /resources
+        - link "Free Diagnostic" [ref=f31e16] [cursor=pointer]:
+          - /url: /diagnostic
+  - main [ref=f31e17]:
+    - link "← Study" [ref=f31e18] [cursor=pointer]:
+      - /url: /study
+    - heading "Mathematics" [level=1] [ref=f31e19]
+    - paragraph [ref=f31e20]: 10 chapters · 25 topics. Follow the roadmap in order — open a topic to start its 5 stages.
+    - generic [ref=f31e21]:
+      - link "Formula Book →" [ref=f31e22] [cursor=pointer]:
+        - /url: /study/mathematics/formulas
+      - link "Practice →" [ref=f31e23] [cursor=pointer]:
+        - /url: /practice
+    - generic [ref=f31e24]:
+      - generic [ref=f31e25]:
+        - paragraph [ref=f31e26]: Step 1
+        - generic [ref=f31e27]:
+          - heading "Sets & Inequalities" [level=2] [ref=f31e28]
+          - generic [ref=f31e29]: Easy
+        - generic [ref=f31e30]:
+          - generic [ref=f31e31]: 15% weight
+          - generic [ref=f31e32]: ~8h
+        - paragraph [ref=f31e33]: Set operations with Venn counting plus linear, quadratic, fractional and absolute-value inequalities.
+        - generic [ref=f31e35]:
+          - generic [ref=f31e36]:
+            - heading "Sets & Inequalities" [level=3] [ref=f31e37]
+            - generic [ref=f31e38]: Easy
+            - generic [ref=f31e39]: 15%
+            - generic [ref=f31e40]: · ~8h
+          - paragraph [ref=f31e41]: Set notation and operations, Venn diagrams, and solving linear, quadratic and absolute-value inequalities.
+          - list [ref=f31e42]:
+            - listitem [ref=f31e43]:
+              - link "Sets & Set Operations Sets, subsets, union, intersection, complement, Venn diagrams and De Morgan's laws for counting problems. ~60s per question" [ref=f31e44] [cursor=pointer]:
+                - /url: /study/mathematics/sets
+                - text: Sets & Set Operations
+                - generic [ref=f31e45]: Sets, subsets, union, intersection, complement, Venn diagrams and De Morgan's laws for counting problems.
+                - generic [ref=f31e46]: ~60s per question
+            - listitem [ref=f31e47]:
+              - link "Inequalities Solving linear, quadratic, fractional and absolute-value inequalities with sign charts and interval notation. ~70s per question" [ref=f31e48] [cursor=pointer]:
+                - /url: /study/mathematics/inequalities
+                - text: Inequalities
+                - generic [ref=f31e49]: Solving linear, quadratic, fractional and absolute-value inequalities with sign charts and interval notation.
+                - generic [ref=f31e50]: ~70s per question
+      - generic [ref=f31e51]:
+        - paragraph [ref=f31e52]: Step 2
+        - generic [ref=f31e53]:
+          - heading "Functions" [level=2] [ref=f31e54]
+          - generic [ref=f31e55]: Hard
+        - generic [ref=f31e56]:
+          - generic [ref=f31e57]: 35% weight
+          - generic [ref=f31e58]: ~20h
+        - paragraph [ref=f31e59]: Function families (power, exponential, log, trig), sequences and series, and calculus through basic applications.
+        - generic [ref=f31e60]:
+          - generic [ref=f31e61]:
+            - generic [ref=f31e62]:
+              - heading "Functions" [level=3] [ref=f31e63]
+              - generic [ref=f31e64]: Hard
+              - generic [ref=f31e65]: 35%
+              - generic [ref=f31e66]: · ~10h
+            - paragraph [ref=f31e67]: Domain and range, monotonicity, parity, and the power, exponential, logarithmic and trigonometric families.
+            - list [ref=f31e68]:
+              - listitem [ref=f31e69]:
+                - link "Domain & Range Finding the domain (allowed inputs) and range (possible outputs) of functions, including roots and fractions. ~60s per question" [ref=f31e70] [cursor=pointer]:
+                  - /url: /study/mathematics/domain-range
+                  - text: Domain & Range
+                  - generic [ref=f31e71]: Finding the domain (allowed inputs) and range (possible outputs) of functions, including roots and fractions.
+                  - generic [ref=f31e72]: ~60s per question
+              - listitem [ref=f31e73]:
+                - link "Monotonicity Increasing/decreasing behavior, maxima and minima, and reading monotonicity from graphs and derivatives. ~70s per question" [ref=f31e74] [cursor=pointer]:
+                  - /url: /study/mathematics/monotonicity
+                  - text: Monotonicity
+                  - generic [ref=f31e75]: Increasing/decreasing behavior, maxima and minima, and reading monotonicity from graphs and derivatives.
+                  - generic [ref=f31e76]: ~70s per question
+              - listitem [ref=f31e77]:
+                - link "Even & Odd Functions Parity tests, symmetry of graphs, and shortcuts for values and integrals of even/odd functions. ~60s per question" [ref=f31e78] [cursor=pointer]:
+                  - /url: /study/mathematics/even-odd-functions
+                  - text: Even & Odd Functions
+                  - generic [ref=f31e79]: Parity tests, symmetry of graphs, and shortcuts for values and integrals of even/odd functions.
+                  - generic [ref=f31e80]: ~60s per question
+              - listitem [ref=f31e81]:
+                - 'link "Power Functions Functions xⁿ for integer, rational and real exponents: graphs, parity, growth, and exponent rules. ~70s per question" [ref=f31e82] [cursor=pointer]':
+                  - /url: /study/mathematics/power-functions
+                  - text: Power Functions
+                  - generic [ref=f31e83]: "Functions xⁿ for integer, rational and real exponents: graphs, parity, growth, and exponent rules."
+                  - generic [ref=f31e84]: ~70s per question
+              - listitem [ref=f31e85]:
+                - link "Exponential Functions aˣ graphs and properties, the number e, and solving exponential equations by equalizing bases. ~70s per question" [ref=f31e86] [cursor=pointer]:
+                  - /url: /study/mathematics/exponential-functions
+                  - text: Exponential Functions
+                  - generic [ref=f31e87]: aˣ graphs and properties, the number e, and solving exponential equations by equalizing bases.
+                  - generic [ref=f31e88]: ~70s per question
+              - listitem [ref=f31e89]:
+                - link "Logarithmic Functions log_a(x) as the inverse of aˣ, log laws, change of base, and solving logarithmic equations with domain checks. ~70s per question" [ref=f31e90] [cursor=pointer]:
+                  - /url: /study/mathematics/logarithmic-functions
+                  - text: Logarithmic Functions
+                  - generic [ref=f31e91]: log_a(x) as the inverse of aˣ, log laws, change of base, and solving logarithmic equations with domain checks.
+                  - generic [ref=f31e92]: ~70s per question
+              - listitem [ref=f31e93]:
+                - link "Trigonometric Functions sin, cos, tan on the unit circle, key identities, graphs, period/amplitude, and solving basic trig equations. ~75s per question" [ref=f31e94] [cursor=pointer]:
+                  - /url: /study/mathematics/trigonometric-functions
+                  - text: Trigonometric Functions
+                  - generic [ref=f31e95]: sin, cos, tan on the unit circle, key identities, graphs, period/amplitude, and solving basic trig equations.
+                  - generic [ref=f31e96]: ~75s per question
+          - generic [ref=f31e97]:
+            - generic [ref=f31e98]:
+              - heading "Sequences" [level=3] [ref=f31e99]
+              - generic [ref=f31e100]: Hard
+              - generic [ref=f31e101]: 35%
+              - generic [ref=f31e102]: · ~4h
+            - paragraph [ref=f31e103]: "Arithmetic and geometric sequences and series: general terms, sums, and applied growth problems."
+            - list [ref=f31e104]:
+              - listitem [ref=f31e105]:
+                - 'link "Arithmetic Sequences Constant-difference sequences: general term, sum of the first n terms, and finding terms from partial sums. ~70s per question" [ref=f31e106] [cursor=pointer]':
+                  - /url: /study/mathematics/arithmetic-sequences
+                  - text: Arithmetic Sequences
+                  - generic [ref=f31e107]: "Constant-difference sequences: general term, sum of the first n terms, and finding terms from partial sums."
+                  - generic [ref=f31e108]: ~70s per question
+              - listitem [ref=f31e109]:
+                - 'link "Geometric Sequences Constant-ratio sequences: general term, finite and infinite sums, and compound-growth applications. ~70s per question" [ref=f31e110] [cursor=pointer]':
+                  - /url: /study/mathematics/geometric-sequences
+                  - text: Geometric Sequences
+                  - generic [ref=f31e111]: "Constant-ratio sequences: general term, finite and infinite sums, and compound-growth applications."
+                  - generic [ref=f31e112]: ~70s per question
+          - generic [ref=f31e113]:
+            - generic [ref=f31e114]:
+              - heading "Calculus" [level=3] [ref=f31e115]
+              - generic [ref=f31e116]: Hard
+              - generic [ref=f31e117]: 35%
+              - generic [ref=f31e118]: · ~6h
+            - paragraph [ref=f31e119]: "Limits, derivative rules, and basic applications: tangents, monotonicity, extrema and simple optimization."
+            - list [ref=f31e120]:
+              - listitem [ref=f31e121]:
+                - link "Limits Intuitive limits, 0/0 forms by factoring and rationalizing, and the two classic special limits. ~75s per question" [ref=f31e122] [cursor=pointer]:
+                  - /url: /study/mathematics/limits
+                  - text: Limits
+                  - generic [ref=f31e123]: Intuitive limits, 0/0 forms by factoring and rationalizing, and the two classic special limits.
+                  - generic [ref=f31e124]: ~75s per question
+              - listitem [ref=f31e125]:
+                - link "Derivatives Derivative meaning (slope + rate of change), power/product/quotient/chain rules, and derivatives of key functions. ~70s per question" [ref=f31e126] [cursor=pointer]:
+                  - /url: /study/mathematics/derivatives
+                  - text: Derivatives
+                  - generic [ref=f31e127]: Derivative meaning (slope + rate of change), power/product/quotient/chain rules, and derivatives of key functions.
+                  - generic [ref=f31e128]: ~70s per question
+              - listitem [ref=f31e129]:
+                - link "Basic Applications Tangent lines, increasing/decreasing intervals, local extrema, and one-variable optimization word problems. ~75s per question" [ref=f31e130] [cursor=pointer]:
+                  - /url: /study/mathematics/calculus-applications
+                  - text: Basic Applications
+                  - generic [ref=f31e131]: Tangent lines, increasing/decreasing intervals, local extrema, and one-variable optimization word problems.
+                  - generic [ref=f31e132]: ~75s per question
+      - generic [ref=f31e133]:
+        - paragraph [ref=f31e134]: Step 3
+        - generic [ref=f31e135]:
+          - heading "Geometry and Algebra" [level=2] [ref=f31e136]
+          - generic [ref=f31e137]: Hard
+        - generic [ref=f31e138]:
+          - generic [ref=f31e139]: 30% weight
+          - generic [ref=f31e140]: ~18h
+        - paragraph [ref=f31e141]: Coordinate geometry and conics plus vectors, complex numbers and solid geometry.
+        - generic [ref=f31e142]:
+          - generic [ref=f31e143]:
+            - generic [ref=f31e144]:
+              - heading "Geometry" [level=3] [ref=f31e145]
+              - generic [ref=f31e146]: Hard
+              - generic [ref=f31e147]: 30%
+              - generic [ref=f31e148]: · ~9h
+            - paragraph [ref=f31e149]: "Coordinate geometry: lines, circles, and the conic sections — ellipses, hyperbolas and parabolas."
+            - list [ref=f31e150]:
+              - listitem [ref=f31e151]:
+                - link "Analytic Geometry Basics Coordinates, distance, midpoint, slope, and translating between geometric conditions and equations. ~70s per question" [ref=f31e152] [cursor=pointer]:
+                  - /url: /study/mathematics/analytic-geometry
+                  - text: Analytic Geometry Basics
+                  - generic [ref=f31e153]: Coordinates, distance, midpoint, slope, and translating between geometric conditions and equations.
+                  - generic [ref=f31e154]: ~70s per question
+              - listitem [ref=f31e155]:
+                - link "Lines Slope-intercept, point-slope and general forms; parallel/perpendicular conditions; intersections and distances. ~60s per question" [ref=f31e156] [cursor=pointer]:
+                  - /url: /study/mathematics/lines
+                  - text: Lines
+                  - generic [ref=f31e157]: Slope-intercept, point-slope and general forms; parallel/perpendicular conditions; intersections and distances.
+                  - generic [ref=f31e158]: ~60s per question
+              - listitem [ref=f31e159]:
+                - link "Circles Standard and general circle equations, center/radius by completing the square, and line–circle positions. ~70s per question" [ref=f31e160] [cursor=pointer]:
+                  - /url: /study/mathematics/circles
+                  - text: Circles
+                  - generic [ref=f31e161]: Standard and general circle equations, center/radius by completing the square, and line–circle positions.
+                  - generic [ref=f31e162]: ~70s per question
+              - listitem [ref=f31e163]:
+                - link "Ellipses Standard equations, foci/vertices/axes, the a² = b² + c² relation, and eccentricity. ~75s per question" [ref=f31e164] [cursor=pointer]:
+                  - /url: /study/mathematics/ellipses
+                  - text: Ellipses
+                  - generic [ref=f31e165]: Standard equations, foci/vertices/axes, the a² = b² + c² relation, and eccentricity.
+                  - generic [ref=f31e166]: ~75s per question
+              - listitem [ref=f31e167]:
+                - link "Hyperbolas Standard equations, foci/vertices, asymptotes, and the c² = a² + b² relation. ~75s per question" [ref=f31e168] [cursor=pointer]:
+                  - /url: /study/mathematics/hyperbolas
+                  - text: Hyperbolas
+                  - generic [ref=f31e169]: Standard equations, foci/vertices, asymptotes, and the c² = a² + b² relation.
+                  - generic [ref=f31e170]: ~75s per question
+              - listitem [ref=f31e171]:
+                - link "Parabolas Standard forms y² = 2px / x² = 2py, focus, directrix, and the focus–directrix definition. ~70s per question" [ref=f31e172] [cursor=pointer]:
+                  - /url: /study/mathematics/parabolas
+                  - text: Parabolas
+                  - generic [ref=f31e173]: Standard forms y² = 2px / x² = 2py, focus, directrix, and the focus–directrix definition.
+                  - generic [ref=f31e174]: ~70s per question
+          - generic [ref=f31e175]:
+            - generic [ref=f31e176]:
+              - heading "Vectors" [level=3] [ref=f31e177]
+              - generic [ref=f31e178]: Hard
+              - generic [ref=f31e179]: 30%
+              - generic [ref=f31e180]: · ~3h
+            - paragraph [ref=f31e181]: Vector coordinates, magnitude, dot product, parallelism/perpendicularity, and basic geometric applications.
+            - list [ref=f31e182]:
+              - listitem [ref=f31e183]:
+                - link "Vectors Vector addition and scaling, magnitude, dot product and angles, plus parallel/perpendicular tests. ~70s per question" [ref=f31e184] [cursor=pointer]:
+                  - /url: /study/mathematics/vectors
+                  - text: Vectors
+                  - generic [ref=f31e185]: Vector addition and scaling, magnitude, dot product and angles, plus parallel/perpendicular tests.
+                  - generic [ref=f31e186]: ~70s per question
+          - generic [ref=f31e187]:
+            - generic [ref=f31e188]:
+              - heading "Complex Numbers" [level=3] [ref=f31e189]
+              - generic [ref=f31e190]: Hard
+              - generic [ref=f31e191]: 30%
+              - generic [ref=f31e192]: · ~3h
+            - paragraph [ref=f31e193]: The complex plane, modulus and argument, the four operations, conjugates, and quadratic roots.
+            - list [ref=f31e194]:
+              - listitem [ref=f31e195]:
+                - link "Complex Numbers a + bi arithmetic, conjugates, modulus, division by rationalizing, and complex roots of quadratics. ~70s per question" [ref=f31e196] [cursor=pointer]:
+                  - /url: /study/mathematics/complex-numbers
+                  - text: Complex Numbers
+                  - generic [ref=f31e197]: a + bi arithmetic, conjugates, modulus, division by rationalizing, and complex roots of quadratics.
+                  - generic [ref=f31e198]: ~70s per question
+          - generic [ref=f31e199]:
+            - generic [ref=f31e200]:
+              - heading "Solid Geometry" [level=3] [ref=f31e201]
+              - generic [ref=f31e202]: Hard
+              - generic [ref=f31e203]: 30%
+              - generic [ref=f31e204]: · ~3h
+            - paragraph [ref=f31e205]: Space lines and planes, and surface area / volume of prisms, pyramids, cylinders, cones and spheres.
+            - list [ref=f31e206]:
+              - listitem [ref=f31e207]:
+                - link "Solid Geometry Positions of lines and planes in space, projections, and volume/surface-area formulas for common solids. ~75s per question" [ref=f31e208] [cursor=pointer]:
+                  - /url: /study/mathematics/solid-geometry
+                  - text: Solid Geometry
+                  - generic [ref=f31e209]: Positions of lines and planes in space, projections, and volume/surface-area formulas for common solids.
+                  - generic [ref=f31e210]: ~75s per question
+      - generic [ref=f31e211]:
+        - paragraph [ref=f31e212]: Step 4
+        - generic [ref=f31e213]:
+          - heading "Probability and Statistics" [level=2] [ref=f31e214]
+          - generic [ref=f31e215]: Medium
+        - generic [ref=f31e216]:
+          - generic [ref=f31e217]: 20% weight
+          - generic [ref=f31e218]: ~12h
+        - paragraph [ref=f31e219]: Counting, classical/conditional probability and independence, plus centers, spread and chart reading.
+        - generic [ref=f31e220]:
+          - generic [ref=f31e221]:
+            - generic [ref=f31e222]:
+              - heading "Probability" [level=3] [ref=f31e223]
+              - generic [ref=f31e224]: Medium
+              - generic [ref=f31e225]: 20%
+              - generic [ref=f31e226]: · ~7h
+            - paragraph [ref=f31e227]: Classical probability, counting (permutations/combinations), conditional probability and independence.
+            - list [ref=f31e228]:
+              - listitem [ref=f31e229]:
+                - link "Probability Sample spaces, P = favorable/total, permutations vs combinations, conditional probability and independence. ~75s per question" [ref=f31e230] [cursor=pointer]:
+                  - /url: /study/mathematics/probability
+                  - text: Probability
+                  - generic [ref=f31e231]: Sample spaces, P = favorable/total, permutations vs combinations, conditional probability and independence.
+                  - generic [ref=f31e232]: ~75s per question
+          - generic [ref=f31e233]:
+            - generic [ref=f31e234]:
+              - heading "Statistics" [level=3] [ref=f31e235]
+              - generic [ref=f31e236]: Medium
+              - generic [ref=f31e237]: 20%
+              - generic [ref=f31e238]: · ~5h
+            - paragraph [ref=f31e239]: Mean, median, mode, variance and standard deviation, plus reading frequency tables and basic charts.
+            - list [ref=f31e240]:
+              - listitem [ref=f31e241]:
+                - link "Statistics Measures of center and spread (mean, median, mode, variance, σ) and interpreting tables and charts. ~70s per question" [ref=f31e242] [cursor=pointer]:
+                  - /url: /study/mathematics/statistics
+                  - text: Statistics
+                  - generic [ref=f31e243]: Measures of center and spread (mean, median, mode, variance, σ) and interpreting tables and charts.
+                  - generic [ref=f31e244]: ~70s per question
+  - contentinfo [ref=f31e245]:
+    - generic [ref=f31e246]:
+      - generic [ref=f31e247]:
+        - paragraph [ref=f31e248]: CSCA-Prep
+        - paragraph [ref=f31e249]: Understand → Diagnose → Learn → Practice → Review → Mock → Analyze → Repeat.
+      - generic [ref=f31e250]:
+        - paragraph [ref=f31e251]: Study
+        - list [ref=f31e252]:
+          - listitem [ref=f31e253]:
+            - link "Mathematics" [ref=f31e254] [cursor=pointer]:
+              - /url: /study/mathematics
+          - listitem [ref=f31e255]:
+            - link "Physics" [ref=f31e256] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f31e257]:
+            - link "Chemistry" [ref=f31e258] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f31e259]:
+            - link "Diagnostic" [ref=f31e260] [cursor=pointer]:
+              - /url: /diagnostic
+      - generic [ref=f31e261]:
+        - paragraph [ref=f31e262]: Practice
+        - list [ref=f31e263]:
+          - listitem [ref=f31e264]:
+            - link "CSCA Standard bank" [ref=f31e265] [cursor=pointer]:
+              - /url: /practice
+          - listitem [ref=f31e266]:
+            - link "Timed practice" [ref=f31e267] [cursor=pointer]:
+              - /url: /practice/timed
+          - listitem [ref=f31e268]:
+            - link "Full mocks 48Q/60min" [ref=f31e269] [cursor=pointer]:
+              - /url: /mock
+          - listitem [ref=f31e270]:
+            - link "Mistake Book" [ref=f31e271] [cursor=pointer]:
+              - /url: /mistakes
+      - generic [ref=f31e272]:
+        - paragraph [ref=f31e273]: Plan
+        - list [ref=f31e274]:
+          - listitem [ref=f31e275]:
+            - link "Study plan" [ref=f31e276] [cursor=pointer]:
+              - /url: /plan
+          - listitem [ref=f31e277]:
+            - link "Readiness" [ref=f31e278] [cursor=pointer]:
+              - /url: /progress
+          - listitem [ref=f31e279]:
+            - link "Resources" [ref=f31e280] [cursor=pointer]:
+              - /url: /resources
+          - listitem [ref=f31e281]:
+            - link "Subject wizard" [ref=f31e282] [cursor=pointer]:
+              - /url: /onboarding
+    - generic [ref=f31e283]: Independent study guide — not affiliated with the official CSCA exam. Confirm at csca.cn and your university.

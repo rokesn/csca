@@ -1,0 +1,131 @@
+- generic [active] [ref=f37e1]:
+  - banner [ref=f37e2]:
+    - navigation [ref=f37e3]:
+      - link "CSCA-Prep logo CSCA-Prep Professional Study" [ref=f37e4] [cursor=pointer]:
+        - /url: /
+        - img "CSCA-Prep logo" [ref=f37e5]
+        - generic [ref=f37e6]:
+          - generic [ref=f37e7]: CSCA-Prep
+          - generic [ref=f37e8]: Professional Study
+      - generic [ref=f37e9]:
+        - link "Study" [ref=f37e10] [cursor=pointer]:
+          - /url: /study
+        - link "Practice" [ref=f37e11] [cursor=pointer]:
+          - /url: /practice
+        - link "Mock Exams" [ref=f37e12] [cursor=pointer]:
+          - /url: /mock
+        - link "Study Plan" [ref=f37e13] [cursor=pointer]:
+          - /url: /plan
+        - link "Progress" [ref=f37e14] [cursor=pointer]:
+          - /url: /progress
+        - link "Resources" [ref=f37e15] [cursor=pointer]:
+          - /url: /resources
+        - link "Free Diagnostic" [ref=f37e16] [cursor=pointer]:
+          - /url: /diagnostic
+  - main [ref=f37e17]:
+    - generic [ref=f37e18]:
+      - paragraph [ref=f37e19]: Study
+      - heading "Pick your subject." [level=1] [ref=f37e20]
+      - paragraph [ref=f37e21]: Four papers, one system. Mathematics has full 5-stage lessons today — Physics, Chemistry and Chinese ship the same way next. Every topic follows Learn → See → Practice → Timed → Mastery.
+    - generic [ref=f37e22]:
+      - link "M MathematicsComplete EN / CN · 60 min · 48 MCQ · 10 chapters · 25 topics Sets, functions, calculus, geometry, vectors, probability — full 5-stage lessons, formula book and 48-question bank. Start studying →" [ref=f37e23] [cursor=pointer]:
+        - /url: /study/mathematics
+        - generic [ref=f37e24]:
+          - generic [ref=f37e25]: M
+          - generic [ref=f37e26]:
+            - heading "MathematicsComplete" [level=2] [ref=f37e27]
+            - paragraph [ref=f37e28]: EN / CN · 60 min · 48 MCQ · 10 chapters · 25 topics
+        - paragraph [ref=f37e29]: Sets, functions, calculus, geometry, vectors, probability — full 5-stage lessons, formula book and 48-question bank.
+        - generic [ref=f37e30]:
+          - text: Start studying →
+          - generic [aria-hidden] [ref=f37e31]: →
+      - link "P Physics EN / CN · 60 min · 48 MCQ · 4 modules Mechanics, electricity & magnetism, thermodynamics, optics and modern physics — syllabus, modules and exam tips. Open Physics →" [ref=f37e32] [cursor=pointer]:
+        - /url: /study/physics
+        - generic [ref=f37e33]:
+          - generic [ref=f37e34]: P
+          - generic [ref=f37e35]:
+            - heading "Physics" [level=2] [ref=f37e36]
+            - paragraph [ref=f37e37]: EN / CN · 60 min · 48 MCQ · 4 modules
+        - paragraph [ref=f37e38]: Mechanics, electricity & magnetism, thermodynamics, optics and modern physics — syllabus, modules and exam tips.
+        - generic [ref=f37e39]:
+          - text: Open Physics →
+          - generic [aria-hidden] [ref=f37e40]: →
+      - link "C Chemistry EN / CN · 60 min · 48 MCQ · 4 modules Basic concepts, inorganic, organic, physical chemistry and experiments — reactions, equations and mole math. Open Chemistry →" [ref=f37e41] [cursor=pointer]:
+        - /url: /study/chemistry
+        - generic [ref=f37e42]:
+          - generic [ref=f37e43]: C
+          - generic [ref=f37e44]:
+            - heading "Chemistry" [level=2] [ref=f37e45]
+            - paragraph [ref=f37e46]: EN / CN · 60 min · 48 MCQ · 4 modules
+        - paragraph [ref=f37e47]: Basic concepts, inorganic, organic, physical chemistry and experiments — reactions, equations and mole math.
+        - generic [ref=f37e48]:
+          - text: Open Chemistry →
+          - generic [aria-hidden] [ref=f37e49]: →
+      - link "文 Professional Chinese CN only · 90 min · 80 MCQ · Humanities / STEM Reading, vocabulary, grammar and writing mechanics — plus which stream you need and who is exempt. Open Chinese →" [ref=f37e50] [cursor=pointer]:
+        - /url: /study/chinese
+        - generic [ref=f37e51]:
+          - generic [ref=f37e52]: 文
+          - generic [ref=f37e53]:
+            - heading "Professional Chinese" [level=2] [ref=f37e54]
+            - paragraph [ref=f37e55]: CN only · 90 min · 80 MCQ · Humanities / STEM
+        - paragraph [ref=f37e56]: Reading, vocabulary, grammar and writing mechanics — plus which stream you need and who is exempt.
+        - generic [ref=f37e57]:
+          - text: Open Chinese →
+          - generic [aria-hidden] [ref=f37e58]: →
+    - paragraph [ref=f37e59]:
+      - text: Not sure which papers you need?
+      - link "Run the subject wizard" [ref=f37e60] [cursor=pointer]:
+        - /url: /onboarding
+      - text: .
+  - contentinfo [ref=f37e61]:
+    - generic [ref=f37e62]:
+      - generic [ref=f37e63]:
+        - paragraph [ref=f37e64]: CSCA-Prep
+        - paragraph [ref=f37e65]: Understand → Diagnose → Learn → Practice → Review → Mock → Analyze → Repeat.
+      - generic [ref=f37e66]:
+        - paragraph [ref=f37e67]: Study
+        - list [ref=f37e68]:
+          - listitem [ref=f37e69]:
+            - link "Mathematics" [ref=f37e70] [cursor=pointer]:
+              - /url: /study/mathematics
+          - listitem [ref=f37e71]:
+            - link "Physics" [ref=f37e72] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f37e73]:
+            - link "Chemistry" [ref=f37e74] [cursor=pointer]:
+              - /url: /study
+          - listitem [ref=f37e75]:
+            - link "Diagnostic" [ref=f37e76] [cursor=pointer]:
+              - /url: /diagnostic
+      - generic [ref=f37e77]:
+        - paragraph [ref=f37e78]: Practice
+        - list [ref=f37e79]:
+          - listitem [ref=f37e80]:
+            - link "CSCA Standard bank" [ref=f37e81] [cursor=pointer]:
+              - /url: /practice
+          - listitem [ref=f37e82]:
+            - link "Timed practice" [ref=f37e83] [cursor=pointer]:
+              - /url: /practice/timed
+          - listitem [ref=f37e84]:
+            - link "Full mocks 48Q/60min" [ref=f37e85] [cursor=pointer]:
+              - /url: /mock
+          - listitem [ref=f37e86]:
+            - link "Mistake Book" [ref=f37e87] [cursor=pointer]:
+              - /url: /mistakes
+      - generic [ref=f37e88]:
+        - paragraph [ref=f37e89]: Plan
+        - list [ref=f37e90]:
+          - listitem [ref=f37e91]:
+            - link "Study plan" [ref=f37e92] [cursor=pointer]:
+              - /url: /plan
+          - listitem [ref=f37e93]:
+            - link "Readiness" [ref=f37e94] [cursor=pointer]:
+              - /url: /progress
+          - listitem [ref=f37e95]:
+            - link "Resources" [ref=f37e96] [cursor=pointer]:
+              - /url: /resources
+          - listitem [ref=f37e97]:
+            - link "Subject wizard" [ref=f37e98] [cursor=pointer]:
+              - /url: /onboarding
+    - generic [ref=f37e99]: Independent study guide — not affiliated with the official CSCA exam. Confirm at csca.cn and your university.
+  - alert [ref=f37e100]
